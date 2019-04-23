@@ -1,0 +1,2 @@
+ERROR - 2019-01-21 00:02:19 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /usr/local/var/www/master-eraport/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2019-01-21 00:02:19 --> Unable to connect to the database

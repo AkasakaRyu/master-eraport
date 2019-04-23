@@ -1,0 +1,3 @@
+ERROR - 2019-01-10 16:28:33 --> Severity: error --> Exception: Unable to locate the model you have specified: M_Login /usr/local/var/www/master-retail/system/core/Loader.php 348
+ERROR - 2019-01-10 16:32:32 --> Severity: error --> Exception: syntax error, unexpected '$this' (T_VARIABLE) /usr/local/var/www/master-retail/application/controllers/Portal.php 13
+ERROR - 2019-01-10 16:33:06 --> Severity: error --> Exception: Unable to locate the model you have specified: M_Login /usr/local/var/www/master-retail/system/core/Loader.php 348

@@ -1,0 +1,49 @@
+ERROR - 2019-01-09 15:54:19 --> Unable to load the requested class: Form
+ERROR - 2019-01-09 15:54:19 --> Severity: Warning --> include(/usr/local/var/www/master-retail/application/application/html/error_general.php): failed to open stream: No such file or directory /usr/local/var/www/master-retail/system/core/Exceptions.php 182
+ERROR - 2019-01-09 15:54:19 --> Severity: Warning --> include(): Failed opening '/usr/local/var/www/master-retail/application/application/html/error_general.php' for inclusion (include_path='.:/usr/local/Cellar/php/7.3.0_1/share/php/pear') /usr/local/var/www/master-retail/system/core/Exceptions.php 182
+ERROR - 2019-01-09 15:55:36 --> Unable to load the requested class: Form
+ERROR - 2019-01-09 15:55:36 --> Severity: Warning --> include(/usr/local/var/www/master-retail/application/application/html/error_general.php): failed to open stream: No such file or directory /usr/local/var/www/master-retail/system/core/Exceptions.php 182
+ERROR - 2019-01-09 15:55:36 --> Severity: Warning --> include(): Failed opening '/usr/local/var/www/master-retail/application/application/html/error_general.php' for inclusion (include_path='.:/usr/local/Cellar/php/7.3.0_1/share/php/pear') /usr/local/var/www/master-retail/system/core/Exceptions.php 182
+ERROR - 2019-01-09 15:55:37 --> Unable to load the requested class: Form
+ERROR - 2019-01-09 15:55:37 --> Severity: Warning --> include(/usr/local/var/www/master-retail/application/application/html/error_general.php): failed to open stream: No such file or directory /usr/local/var/www/master-retail/system/core/Exceptions.php 182
+ERROR - 2019-01-09 15:55:37 --> Severity: Warning --> include(): Failed opening '/usr/local/var/www/master-retail/application/application/html/error_general.php' for inclusion (include_path='.:/usr/local/Cellar/php/7.3.0_1/share/php/pear') /usr/local/var/www/master-retail/system/core/Exceptions.php 182
+ERROR - 2019-01-09 15:55:56 --> Unable to load the requested class: Form
+ERROR - 2019-01-09 15:55:56 --> Severity: Warning --> include(/usr/local/var/www/master-retail/application//html/error_general.php): failed to open stream: No such file or directory /usr/local/var/www/master-retail/system/core/Exceptions.php 182
+ERROR - 2019-01-09 15:55:56 --> Severity: Warning --> include(): Failed opening '/usr/local/var/www/master-retail/application//html/error_general.php' for inclusion (include_path='.:/usr/local/Cellar/php/7.3.0_1/share/php/pear') /usr/local/var/www/master-retail/system/core/Exceptions.php 182
+ERROR - 2019-01-09 15:55:59 --> Unable to load the requested class: Form
+ERROR - 2019-01-09 15:55:59 --> Severity: Warning --> include(/usr/local/var/www/master-retail/application/html/error_general.php): failed to open stream: No such file or directory /usr/local/var/www/master-retail/system/core/Exceptions.php 182
+ERROR - 2019-01-09 15:55:59 --> Severity: Warning --> include(): Failed opening '/usr/local/var/www/master-retail/application/html/error_general.php' for inclusion (include_path='.:/usr/local/Cellar/php/7.3.0_1/share/php/pear') /usr/local/var/www/master-retail/system/core/Exceptions.php 182
+ERROR - 2019-01-09 15:56:18 --> Unable to load the requested class: Form
+ERROR - 2019-01-09 15:56:18 --> Severity: Warning --> include(/usr/local/var/www/master-retail/application/../html/error_general.php): failed to open stream: No such file or directory /usr/local/var/www/master-retail/system/core/Exceptions.php 182
+ERROR - 2019-01-09 15:56:18 --> Severity: Warning --> include(): Failed opening '/usr/local/var/www/master-retail/application/../html/error_general.php' for inclusion (include_path='.:/usr/local/Cellar/php/7.3.0_1/share/php/pear') /usr/local/var/www/master-retail/system/core/Exceptions.php 182
+ERROR - 2019-01-09 15:56:27 --> Unable to load the requested class: Form
+ERROR - 2019-01-09 15:56:27 --> Severity: Warning --> include(/usr/local/var/www/master-retail/application/html/error_general.php): failed to open stream: No such file or directory /usr/local/var/www/master-retail/system/core/Exceptions.php 182
+ERROR - 2019-01-09 15:56:27 --> Severity: Warning --> include(): Failed opening '/usr/local/var/www/master-retail/application/html/error_general.php' for inclusion (include_path='.:/usr/local/Cellar/php/7.3.0_1/share/php/pear') /usr/local/var/www/master-retail/system/core/Exceptions.php 182
+ERROR - 2019-01-09 15:56:31 --> Unable to load the requested class: Form
+ERROR - 2019-01-09 15:56:31 --> Severity: Warning --> include(/usr/local/var/www/master-retail/application/errorshtml/error_general.php): failed to open stream: No such file or directory /usr/local/var/www/master-retail/system/core/Exceptions.php 182
+ERROR - 2019-01-09 15:56:31 --> Severity: Warning --> include(): Failed opening '/usr/local/var/www/master-retail/application/errorshtml/error_general.php' for inclusion (include_path='.:/usr/local/Cellar/php/7.3.0_1/share/php/pear') /usr/local/var/www/master-retail/system/core/Exceptions.php 182
+ERROR - 2019-01-09 15:56:34 --> Unable to load the requested class: Form
+ERROR - 2019-01-09 15:56:34 --> Severity: Warning --> include(/usr/local/var/www/master-retail/application/error/html/error_general.php): failed to open stream: No such file or directory /usr/local/var/www/master-retail/system/core/Exceptions.php 182
+ERROR - 2019-01-09 15:56:34 --> Severity: Warning --> include(): Failed opening '/usr/local/var/www/master-retail/application/error/html/error_general.php' for inclusion (include_path='.:/usr/local/Cellar/php/7.3.0_1/share/php/pear') /usr/local/var/www/master-retail/system/core/Exceptions.php 182
+ERROR - 2019-01-09 15:56:37 --> Unable to load the requested class: Form
+ERROR - 2019-01-09 15:56:57 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /usr/local/var/www/master-retail/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2019-01-09 15:56:57 --> Unable to connect to the database
+ERROR - 2019-01-09 15:56:57 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /usr/local/var/www/master-retail/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2019-01-09 15:56:57 --> Unable to connect to the database
+ERROR - 2019-01-09 15:57:05 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /usr/local/var/www/master-retail/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2019-01-09 15:57:05 --> Unable to connect to the database
+ERROR - 2019-01-09 15:58:26 --> Severity: Warning --> hex2bin(): Hexadecimal input string must have an even length /usr/local/var/www/master-retail/application/config/config.php 327
+ERROR - 2019-01-09 15:58:26 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /usr/local/var/www/master-retail/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2019-01-09 15:58:26 --> Unable to connect to the database
+ERROR - 2019-01-09 15:58:45 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /usr/local/var/www/master-retail/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2019-01-09 15:58:45 --> Unable to connect to the database
+ERROR - 2019-01-09 15:58:46 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /usr/local/var/www/master-retail/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2019-01-09 15:58:46 --> Unable to connect to the database
+ERROR - 2019-01-09 15:58:46 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /usr/local/var/www/master-retail/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2019-01-09 15:58:46 --> Unable to connect to the database
+ERROR - 2019-01-09 15:58:47 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /usr/local/var/www/master-retail/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2019-01-09 15:58:47 --> Unable to connect to the database
+ERROR - 2019-01-09 16:01:38 --> Severity: Warning --> mysqli::real_connect(): (HY000/1049): Unknown database 'retail' /usr/local/var/www/master-retail/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2019-01-09 16:01:38 --> Unable to connect to the database
+ERROR - 2019-01-09 16:25:22 --> Severity: error --> Exception: Unable to locate the model you have specified: M_Login /usr/local/var/www/master-retail/system/core/Loader.php 348
+ERROR - 2019-01-09 16:26:22 --> Severity: error --> Exception: Unable to locate the model you have specified: M_Login /usr/local/var/www/master-retail/system/core/Loader.php 348

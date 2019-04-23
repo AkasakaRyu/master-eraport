@@ -1,0 +1,69 @@
+ERROR - 2019-01-15 13:29:23 --> Severity: error --> Exception: Call to undefined method M_Jenis::get_list_data() /usr/local/var/www/master-retail/application/controllers/Stok/Jenis.php 23
+ERROR - 2019-01-15 13:29:27 --> Severity: error --> Exception: Call to undefined method M_Satuan::get_list_data() /usr/local/var/www/master-retail/application/controllers/Stok/Satuan.php 23
+ERROR - 2019-01-15 13:29:30 --> Severity: error --> Exception: Call to undefined method M_Satuan::get_list_data() /usr/local/var/www/master-retail/application/controllers/Stok/Satuan.php 23
+ERROR - 2019-01-15 13:29:32 --> 404 Page Not Found: Portal/opname
+ERROR - 2019-01-15 13:29:42 --> Severity: error --> Exception: Call to undefined method M_Satuan::get_list_data() /usr/local/var/www/master-retail/application/controllers/Stok/Satuan.php 23
+ERROR - 2019-01-15 13:29:56 --> 404 Page Not Found: Transaksi
+ERROR - 2019-01-15 13:29:57 --> Severity: error --> Exception: Call to undefined method M_Satuan::get_list_data() /usr/local/var/www/master-retail/application/controllers/Stok/Satuan.php 23
+ERROR - 2019-01-15 14:57:18 --> 404 Page Not Found: Transaksi
+ERROR - 2019-01-15 14:57:25 --> 404 Page Not Found: Transaksi
+ERROR - 2019-01-15 14:57:30 --> 404 Page Not Found: Transaksi
+ERROR - 2019-01-15 14:57:46 --> Severity: error --> Exception: Call to undefined method M_Jenis::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Jenis.php 23
+ERROR - 2019-01-15 14:57:54 --> Severity: error --> Exception: Call to undefined method M_Kemasan::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Kemasan.php 23
+ERROR - 2019-01-15 14:58:59 --> Severity: error --> Exception: Call to undefined method M_Jenis::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Jenis.php 23
+ERROR - 2019-01-15 14:59:03 --> Severity: error --> Exception: Call to undefined method M_Kemasan::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Kemasan.php 23
+ERROR - 2019-01-15 14:59:06 --> Severity: error --> Exception: Call to undefined method M_Jenis::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Jenis.php 23
+ERROR - 2019-01-15 14:59:10 --> 404 Page Not Found: Transaksi
+ERROR - 2019-01-15 14:59:50 --> Severity: error --> Exception: Call to undefined method M_Jenis::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Jenis.php 23
+ERROR - 2019-01-15 14:59:53 --> Severity: error --> Exception: Call to undefined method M_Satuan::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Satuan.php 23
+ERROR - 2019-01-15 15:02:32 --> 404 Page Not Found: Transaksi/Pemesanan/index
+ERROR - 2019-01-15 15:02:51 --> Severity: error --> Exception: Call to undefined method M_Jenis::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Jenis.php 23
+ERROR - 2019-01-15 15:03:58 --> Severity: error --> Exception: Call to undefined method M_Jenis::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Jenis.php 23
+ERROR - 2019-01-15 15:06:38 --> Severity: error --> Exception: Call to undefined method M_Jenis::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Jenis.php 23
+ERROR - 2019-01-15 15:11:49 --> Severity: error --> Exception: Call to undefined method M_Jenis::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Jenis.php 23
+ERROR - 2019-01-15 15:12:17 --> Severity: error --> Exception: Call to undefined method M_Jenis::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Jenis.php 23
+ERROR - 2019-01-15 15:13:01 --> Severity: error --> Exception: Call to undefined method M_Jenis::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Jenis.php 23
+ERROR - 2019-01-15 15:13:12 --> Severity: error --> Exception: Call to undefined method M_Jenis::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Jenis.php 23
+ERROR - 2019-01-15 15:13:30 --> Severity: error --> Exception: Call to undefined method M_Jenis::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Jenis.php 23
+ERROR - 2019-01-15 15:14:01 --> Severity: error --> Exception: Call to undefined method M_Jenis::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Jenis.php 23
+ERROR - 2019-01-15 15:22:29 --> Severity: error --> Exception: Call to undefined method M_Jenis::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Jenis.php 23
+ERROR - 2019-01-15 15:23:52 --> Severity: error --> Exception: Call to undefined method M_Jenis::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Jenis.php 23
+ERROR - 2019-01-15 15:27:32 --> Severity: error --> Exception: Call to undefined method M_Jenis::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Jenis.php 23
+ERROR - 2019-01-15 15:27:36 --> Severity: error --> Exception: Call to undefined method M_Jenis::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Jenis.php 23
+ERROR - 2019-01-15 15:27:45 --> Severity: error --> Exception: Call to undefined method M_Jenis::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Jenis.php 23
+ERROR - 2019-01-15 15:30:05 --> Severity: error --> Exception: Call to undefined method M_Jenis::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Jenis.php 23
+ERROR - 2019-01-15 15:30:47 --> Severity: error --> Exception: Call to undefined method M_Jenis::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Jenis.php 23
+ERROR - 2019-01-15 15:33:27 --> Severity: error --> Exception: Call to undefined method M_Jenis::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Jenis.php 23
+ERROR - 2019-01-15 15:33:57 --> Severity: error --> Exception: Call to undefined method M_Jenis::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Jenis.php 23
+ERROR - 2019-01-15 15:35:00 --> Severity: error --> Exception: Call to undefined method M_Jenis::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Jenis.php 23
+ERROR - 2019-01-15 15:35:57 --> Severity: error --> Exception: Call to undefined method M_Jenis::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Jenis.php 23
+ERROR - 2019-01-15 15:36:00 --> Severity: error --> Exception: Call to undefined method M_Jenis::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Jenis.php 23
+ERROR - 2019-01-15 15:36:37 --> Severity: error --> Exception: Call to undefined method M_Jenis::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Jenis.php 23
+ERROR - 2019-01-15 15:36:45 --> Severity: error --> Exception: Call to undefined method M_Jenis::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Jenis.php 23
+ERROR - 2019-01-15 15:37:10 --> Severity: error --> Exception: Call to undefined method M_Jenis::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Jenis.php 23
+ERROR - 2019-01-15 15:37:32 --> 404 Page Not Found: Assets
+ERROR - 2019-01-15 15:38:16 --> 404 Page Not Found: Assets
+ERROR - 2019-01-15 15:38:16 --> Severity: error --> Exception: Call to undefined method M_Jenis::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Jenis.php 23
+ERROR - 2019-01-15 15:38:41 --> 404 Page Not Found: Assets
+ERROR - 2019-01-15 15:38:48 --> 404 Page Not Found: Assets
+ERROR - 2019-01-15 15:38:53 --> 404 Page Not Found: Assets
+ERROR - 2019-01-15 15:39:03 --> 404 Page Not Found: Assets
+ERROR - 2019-01-15 15:39:03 --> Severity: error --> Exception: Call to undefined method M_Jenis::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Jenis.php 23
+ERROR - 2019-01-15 15:39:16 --> 404 Page Not Found: Assets
+ERROR - 2019-01-15 15:39:16 --> Severity: error --> Exception: Call to undefined method M_Jenis::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Jenis.php 23
+ERROR - 2019-01-15 15:41:29 --> 404 Page Not Found: Assets
+ERROR - 2019-01-15 15:41:30 --> Severity: error --> Exception: Call to undefined method M_Jenis::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Jenis.php 23
+ERROR - 2019-01-15 15:43:39 --> 404 Page Not Found: Assets
+ERROR - 2019-01-15 15:43:40 --> Severity: error --> Exception: Call to undefined method M_Jenis::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Jenis.php 23
+ERROR - 2019-01-15 15:44:00 --> 404 Page Not Found: Assets
+ERROR - 2019-01-15 15:44:00 --> Severity: error --> Exception: Call to undefined method M_Jenis::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Jenis.php 23
+ERROR - 2019-01-15 15:44:27 --> 404 Page Not Found: Assets
+ERROR - 2019-01-15 15:44:28 --> Severity: error --> Exception: Call to undefined method M_Jenis::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Jenis.php 23
+ERROR - 2019-01-15 15:44:37 --> 404 Page Not Found: Assets
+ERROR - 2019-01-15 15:44:37 --> Severity: error --> Exception: Call to undefined method M_Jenis::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Jenis.php 23
+ERROR - 2019-01-15 15:44:44 --> 404 Page Not Found: Assets
+ERROR - 2019-01-15 15:44:45 --> Severity: error --> Exception: Call to undefined method M_Jenis::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Jenis.php 23
+ERROR - 2019-01-15 15:45:21 --> 404 Page Not Found: Portal/pembelian
+ERROR - 2019-01-15 15:45:24 --> Severity: error --> Exception: Call to undefined method M_Jenis::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Jenis.php 23
+ERROR - 2019-01-15 15:45:40 --> 404 Page Not Found: Portal/pembelian
+ERROR - 2019-01-15 15:45:44 --> Severity: error --> Exception: Call to undefined method M_Jenis::get_list_data() C:\xampp\htdocs\master-retail\application\controllers\Stok\Jenis.php 23
